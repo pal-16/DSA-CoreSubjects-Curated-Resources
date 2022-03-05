@@ -8,7 +8,7 @@
 My Code School: https://www.youtube.com/playlist?list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P
 
 ### DP <br>
-Aditya Verma: https://www.youtube.com/watch?v=6PX6wqDQE20&list=PLEJXowNB4kPyi859E6qGUs7jlpQehJndl
+Aditya Verma: https://www.youtube.com/watch?v=nqowUJzG-iM&list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
 
 ### Heaps <br>
 Abdul Bari: https://www.youtube.com/watch?v=HqPJF2L5h9U
