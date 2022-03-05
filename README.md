@@ -24,6 +24,8 @@ Tech Dose: https://www.youtube.com/watch?v=6PX6wqDQE20&list=PLEJXowNB4kPyi859E6q
 ## Object Oriented Programming
 https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/
 
+## Low level and High level System Design
+https://crack-oop-system-design.herokuapp.com/
 ## OS
 Gate Smashers: https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
 
